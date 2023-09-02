@@ -1,1 +1,1 @@
-# dacg
+print install
